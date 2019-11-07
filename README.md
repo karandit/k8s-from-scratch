@@ -1,3 +1,13 @@
+# What is this
+
+  These are the minimal necessary steps to install Kubernetes from scratch based on the video by [Supergiant.io](https://supergiant.io/)..kudos to them
+
+  https://www.youtube.com/watch?v=t4H6hdvB9iQ
+
+# Overview
+
+![Overview](https://user-images.githubusercontent.com/3188758/68398075-76409700-0174-11ea-8b86-acea769331b7.png)
+
 # 01 Install Docker
 
     03  vi /etc/apt/apt.conf.d/proxy.conf
