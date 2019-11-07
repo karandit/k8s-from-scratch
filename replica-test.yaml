@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: replica-test
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: replica-test
+  template:
+    metadata:
+      name: replica-test
+      labels:
+        app: replica-test
+    spec:
+      containers:
+      - name: nginx
+        image: nginx
+        ports:
+        - name: http
+          containerPort: 80
+          protocol: TCP

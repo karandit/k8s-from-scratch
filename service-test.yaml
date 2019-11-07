@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: replica-test
+spec:
+  type: ClusterIP
+  selector:
+    app: replica-test
+  ports:
+  - name: http
+    port: 80
