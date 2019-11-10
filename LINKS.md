@@ -28,3 +28,14 @@
 
 # links
 - https://ramitsurana.github.io/awesome-kubernetes/
+
+# banzai
+- https://banzaicloud.com/blog/kind-ingress/
+- https://banzaicloud.com/blog/creating-helm-charts/
+- https://banzaicloud.com/blog/creating-helm-charts-part-2/
+- https://banzaicloud.com/blog/operator-sdk/
+- https://banzaicloud.com/blog/unprivileged-builds/
+- https://banzaicloud.com/blog/generate-cert-kubeadm-vault/
+- https://banzaicloud.com/blog/pipeline-dx/
+- https://banzaicloud.com/blog/k8s-cluster-autoscaler/
+- https://banzaicloud.com/blog/k8s-horizontal-pod-autoscaler/
