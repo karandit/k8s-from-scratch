@@ -13,6 +13,8 @@
 - https://srvaroa.github.io/kubernetes/migration/latency/dns/java/aws/microservices/2019/10/22/kubernetes-added-a-0-to-my-latency.html
 
 # get it up and running
+- kubernetes-the-hard-way: [repo](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- kubernetes-the-hard-way-terraform: [repo](https://github.com/aidanSoles/kubernetes-the-hard-way-terraform) + [video](https://www.youtube.com/watch?v=00r9C8rWsK8)
 - https://docs.google.com/spreadsheets/d/1LxSqBzjOxfGx3cmtZ4EbB_BGCxT_wlxW_xgHVVa23es/edit#gid=0
 - https://github.com/alexellis/k3sup
 - https://kind.sigs.k8s.io/
