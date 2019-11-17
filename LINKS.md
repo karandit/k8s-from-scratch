@@ -31,6 +31,7 @@
 - https://devopsish.com/
 - https://blog.nobugware.com/post/
 - https://github.com/cloud-ark/kubeplus/blob/master/Operator-FAQ.md
+- https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html
 
 # banzai
 - https://banzaicloud.com/blog/kind-ingress/
