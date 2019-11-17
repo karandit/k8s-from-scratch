@@ -28,6 +28,9 @@
 
 # links
 - https://ramitsurana.github.io/awesome-kubernetes/
+- https://devopsish.com/
+- https://blog.nobugware.com/post/
+- https://github.com/cloud-ark/kubeplus/blob/master/Operator-FAQ.md
 
 # banzai
 - https://banzaicloud.com/blog/kind-ingress/
