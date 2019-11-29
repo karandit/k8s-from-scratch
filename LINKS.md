@@ -19,6 +19,7 @@
 - https://docs.google.com/spreadsheets/d/1LxSqBzjOxfGx3cmtZ4EbB_BGCxT_wlxW_xgHVVa23es/edit#gid=0
 - https://github.com/alexellis/k3sup
 - https://kind.sigs.k8s.io/
+- https://dev.to/alialp/devops-kubernetes-helm-prometheus-grafana-in-ubuntu-19-302j
 
 # best practices
 - https://github.com/aquasecurity/kube-bench
