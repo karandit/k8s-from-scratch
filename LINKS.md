@@ -11,6 +11,7 @@
 - https://jvns.ca/blog/2016/12/22/container-networking/
 - https://deepnetworkgmbh.github.io/blog//2019/10/24/kubernetes-networking-chapter-summary.html
 - https://srvaroa.github.io/kubernetes/migration/latency/dns/java/aws/microservices/2019/10/22/kubernetes-added-a-0-to-my-latency.html
+- https://matthewpalmer.net/kubernetes-app-developer/articles/multi-container-pod-design-patterns.html
 
 # get it up and running
 - kubernetes-the-hard-way: [repo](https://github.com/kelseyhightower/kubernetes-the-hard-way)
