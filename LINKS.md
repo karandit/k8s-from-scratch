@@ -32,6 +32,7 @@
 - https://blog.nobugware.com/post/
 - https://github.com/cloud-ark/kubeplus/blob/master/Operator-FAQ.md
 - https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html
+- https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users/
 
 # banzai
 - https://banzaicloud.com/blog/kind-ingress/
