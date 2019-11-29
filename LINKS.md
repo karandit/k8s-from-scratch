@@ -22,6 +22,7 @@
 # best practices
 - https://github.com/aquasecurity/kube-bench
 - https://github.com/aquasecurity/kube-hunter
+- https://kubestone.io/en/latest/
 
 # courses
 - https://digitaldefynd.com/best-kubernetes-tutorial-training-course/
