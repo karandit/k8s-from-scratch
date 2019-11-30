@@ -20,6 +20,8 @@
 - https://github.com/alexellis/k3sup
 - https://kind.sigs.k8s.io/
 - https://dev.to/alialp/devops-kubernetes-helm-prometheus-grafana-in-ubuntu-19-302j
+- http://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects
+- https://blog.florentdelannoy.com/blog/2019/kubernetes-surprisingly-affordable-platform-followup/
 
 # best practices
 - https://github.com/aquasecurity/kube-bench
