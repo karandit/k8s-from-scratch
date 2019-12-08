@@ -53,3 +53,27 @@
 - https://banzaicloud.com/blog/pipeline-dx/
 - https://banzaicloud.com/blog/k8s-cluster-autoscaler/
 - https://banzaicloud.com/blog/k8s-horizontal-pod-autoscaler/
+
+# TODO
+
+# cni overview
+
+- [Kubernetes The Hard Way Part 2 by justmeandopensource](https://www.youtube.com/watch?v=2bVK-e-GuYI&list=PL34sAs7_26wN9DNC4fTLnJv_GQJ4sWP_z&index=2)
+- [The ins and outs of networking in Google Container Engine and Kubernetes](https://www.youtube.com/watch?v=y2bhV81MfKQ)
+- https://kubernetes.io/docs/concepts/cluster-administration/networking/
+- https://www.cncf.io/webinars/introduction-to-cni-the-container-network-interface/
+- https://ubuntu.com/kubernetes/docs/cni-overview
+- https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/
+- https://www.dasblinkenlichten.com/understanding-cni-container-networking-interface/
+- https://docs.cilium.io/en/v1.6/gettingstarted/cni-chaining-aws-cni/
+- https://medium.com/faun/kubernetes-spin-up-highly-available-kubernetes-cluster-using-kubeadm-setup-cni-part-3-6af4f53aa735
+
+# cni comparing
+- https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-36475925a560
+- https://rancher.com/blog/2019/2019-03-21-comparing-kubernetes-cni-providers-flannel-calico-canal-and-weave/
+
+# cni plugin from scratch
+
+- https://github.com/eranyanay/cni-from-scratch
+- https://speakerdeck.com/eranyanay/writing-a-cni-plugin-from-scratch
+- https://www.youtube.com/watch?v=zmYxdtFzK6s&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=303&t=0s
