@@ -13,6 +13,9 @@
 - https://srvaroa.github.io/kubernetes/migration/latency/dns/java/aws/microservices/2019/10/22/kubernetes-added-a-0-to-my-latency.html
 - https://matthewpalmer.net/kubernetes-app-developer/articles/multi-container-pod-design-patterns.html
 
+# cni
+- [Container Network Interface (CNI) Explained in 7 Minutes](https://www.youtube.com/watch?v=l2BS_kuQxBA&list=PL2We04F3Y_409TsxnyIZe8_bzTGPJ4EaH&index=4)
+
 # get it up and running
 - kubernetes-the-hard-way: [repo](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - kubernetes-the-hard-way-terraform: [repo](https://github.com/aidanSoles/kubernetes-the-hard-way-terraform) + [video](https://www.youtube.com/watch?v=00r9C8rWsK8)
