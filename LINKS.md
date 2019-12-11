@@ -66,6 +66,10 @@
 - https://ubuntu.com/kubernetes/docs/cni-overview
 - https://chrislovecnm.com/kubernetes/cni/choosing-a-cni-provider/
 - https://www.dasblinkenlichten.com/understanding-cni-container-networking-interface/
+- https://www.dasblinkenlichten.com/using-cni-docker/
+- https://www.dasblinkenlichten.com/ipam-dns-cni/
+- https://www.dasblinkenlichten.com/an-introduction-to-network-namespaces/
+- https://www.dasblinkenlichten.com/getting-started-with-calico-on-kubernetes/
 - https://docs.cilium.io/en/v1.6/gettingstarted/cni-chaining-aws-cni/
 - https://medium.com/faun/kubernetes-spin-up-highly-available-kubernetes-cluster-using-kubeadm-setup-cni-part-3-6af4f53aa735
 
