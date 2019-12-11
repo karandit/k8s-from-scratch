@@ -60,6 +60,7 @@
 
 - [Kubernetes The Hard Way Part 2 by justmeandopensource](https://www.youtube.com/watch?v=2bVK-e-GuYI&list=PL34sAs7_26wN9DNC4fTLnJv_GQJ4sWP_z&index=2)
 - [The ins and outs of networking in Google Container Engine and Kubernetes](https://www.youtube.com/watch?v=y2bhV81MfKQ)
+- https://www.youtube.com/watch?v=QMNbgmxmB-M
 - https://kubernetes.io/docs/concepts/cluster-administration/networking/
 - https://www.cncf.io/webinars/introduction-to-cni-the-container-network-interface/
 - https://ubuntu.com/kubernetes/docs/cni-overview
