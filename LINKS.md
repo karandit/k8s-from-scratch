@@ -82,3 +82,9 @@
 - https://github.com/eranyanay/cni-from-scratch
 - https://speakerdeck.com/eranyanay/writing-a-cni-plugin-from-scratch
 - https://www.youtube.com/watch?v=zmYxdtFzK6s&list=PLj6h78yzYM2PpmMAnvpvsnR4c27wJePh3&index=303&t=0s
+
+
+# TODO maybe
+- https://www.youtube.com/watch?v=NUt9VVG_gac
+- https://www.youtube.com/user/srinathrchalla1/videos
+- https://www.youtube.com/watch?v=4E_l-B988Ek
