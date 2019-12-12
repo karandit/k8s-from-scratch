@@ -68,8 +68,21 @@
 - https://www.dasblinkenlichten.com/understanding-cni-container-networking-interface/
 - https://www.dasblinkenlichten.com/using-cni-docker/
 - https://www.dasblinkenlichten.com/ipam-dns-cni/
+- https://www.dasblinkenlichten.com/kubernetes-networking-101-pods/
+- https://www.dasblinkenlichten.com/kubernetes-networking-101-services/
+- https://www.dasblinkenlichten.com/kubernetes-networking-101-basic-external-access-into-the-cluster/
+- https://www.dasblinkenlichten.com/kubernetes-networking-101-ingress-resources/
 - https://www.dasblinkenlichten.com/an-introduction-to-network-namespaces/
+- http://ifeanyi.co/posts/linux-namespaces-part-4/
 - https://www.dasblinkenlichten.com/getting-started-with-calico-on-kubernetes/
+
+- https://www.dasblinkenlichten.com/kubernetes-101-the-build/
+- https://www.dasblinkenlichten.com/kubernetes-101-the-constructs/
+- https://www.dasblinkenlichten.com/kubernetes-101-networking/
+- https://www.dasblinkenlichten.com/kubernetes-101-external-access-into-the-cluster/
+- https://www.dasblinkenlichten.com/kubernetes-notable-changes-since-my-first-build/
+- https://www.dasblinkenlichten.com/an-introduction-to-network-namespaces/
+
 - https://docs.cilium.io/en/v1.6/gettingstarted/cni-chaining-aws-cni/
 - https://medium.com/faun/kubernetes-spin-up-highly-available-kubernetes-cluster-using-kubeadm-setup-cni-part-3-6af4f53aa735
 
