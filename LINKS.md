@@ -33,6 +33,7 @@
 
 # courses
 - https://digitaldefynd.com/best-kubernetes-tutorial-training-course/
+- https://medium.com/faun/35-advanced-tutorials-to-learn-kubernetes-dae5695b1f18
 
 # links
 - https://ramitsurana.github.io/awesome-kubernetes/
